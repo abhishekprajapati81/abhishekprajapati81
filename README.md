@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm ABHISHEK PRAJAPATI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekprajapati81&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapati81" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekprajapati81" alt="abhishekprajapati81" /></a> </p>
-
 - 🌱 I’m currently learning **Angular, Typescript , Javascript DSA etc..**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhishekprajapati81?tab=repositories](https://github.com/abhishekprajapati81?tab=repositories)
